@@ -4,7 +4,7 @@
   "description": "Goalsetter app from Traversy Tutorial",
   "main": "server.js",
   "scripts": {
-    "start": "node backedn/server.js",
+    "start": "node backend/server.js",
     "server": "nodemon backend/server.js"
   },
   "author": "Scott Carpenter",

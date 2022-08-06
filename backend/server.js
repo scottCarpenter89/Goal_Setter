@@ -1,6 +1,7 @@
 const express = require('express');
 const dotenv = require('dotenv').config();
-const port = process.env.PORT  || 5000;
+const port = process.env.PORT || 5000;
+/** Note: you must type npm run server in the terminal to reinitialize the server**/
 
 const app = express();
 
